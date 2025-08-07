@@ -21,7 +21,6 @@ Me chamo Guilherme Kauan Santana Bitencourt, tenho 18 anos e sou do Vale do Ribe
     </a>
 
 ---
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -48,7 +47,6 @@ Me chamo Guilherme Kauan Santana Bitencourt, tenho 18 anos e sou do Vale do Ribe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="React"
@@ -57,7 +55,6 @@ Me chamo Guilherme Kauan Santana Bitencourt, tenho 18 anos e sou do Vale do Ribe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -66,7 +63,6 @@ Me chamo Guilherme Kauan Santana Bitencourt, tenho 18 anos e sou do Vale do Ribe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
 <img 
     align="left" 
     alt="PHP" 
@@ -75,7 +71,6 @@ Me chamo Guilherme Kauan Santana Bitencourt, tenho 18 anos e sou do Vale do Ribe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
 <img 
     align="left" 
     alt="JQuery" 
@@ -92,8 +87,25 @@ Me chamo Guilherme Kauan Santana Bitencourt, tenho 18 anos e sou do Vale do Ribe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="XML" 
+    title="XML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" 
+/>
 <br/>
 <br/>
+
 
 ### 📊 Estatísticas
 
